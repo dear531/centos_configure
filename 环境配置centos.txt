@@ -1,0 +1,17 @@
+
+更新ntfs-3g源：
+
+http://pkgs.repoforge.org/rpmforge-release/
+yum install fuse-ntfs-3g
+
+也可直接到ntfs-3g的工具包直接下载一个rpm包之后直接rpm命令安装：
+http://pkgs.repoforge.org/fuse-ntfs-3g/
+下一个合适版本的包，rpm一下即可。
+
+配置vim和bash的文件从github上下载
+
+配置无线网卡的方法：
+http://hi.baidu.com/gennis2008/item/e4d6b632d6038b8ef5e4ade3
+
+配置补齐的方法：
+http://hi.baidu.com/longhtml/item/bae0533038281181b711db11
